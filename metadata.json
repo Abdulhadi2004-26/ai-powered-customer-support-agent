@@ -1,0 +1,6 @@
+{
+  "name": "AI Customer Support Agent",
+  "description": "Enterprise AI customer support system with RAG, tool-calling agent, human handoff, LLM-as-a-judge evaluation, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
